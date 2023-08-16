@@ -1,4 +1,4 @@
-# Descrição
+### Stream
 
 No Node, toda porta de entrada e saída é automaticamente uma STREAM
 O chunk de uma stream nunca poderá estar num formato primitivo, temos que
