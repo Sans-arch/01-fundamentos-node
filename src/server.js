@@ -2,6 +2,7 @@ import http from "node:http";
 
 const users = [];
 
+// No final das conta, (req e res) são Streams
 const server = http.createServer((req, res) => {
   const { method, url } = req;
 
